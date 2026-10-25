@@ -107,3 +107,7 @@ python -m unittest -v
 | `metacopy.py` | スクリプト本体 |
 | `metacopy.cmd` | Windows 用起動ファイル（`python` が PATH に必要） |
 | `test_metacopy.py` | 標準ライブラリの unittest によるテスト |
+
+## ライセンス
+
+このプロジェクトは GNU General Public License version 3（GPL-3.0-only）の下で提供されます。ライセンス全文は [LICENSE](LICENSE) を参照してください。

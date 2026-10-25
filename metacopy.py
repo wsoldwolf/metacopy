@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: GPL-3.0-only
 """Copy ComfyUI prompt/workflow between existing PNG/WebP files (stdlib only)."""
 import argparse
 import json

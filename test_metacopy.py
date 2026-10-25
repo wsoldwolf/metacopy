@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: GPL-3.0-only
 """Container-level tests; no image codec or third-party packages needed."""
 import contextlib
 import io
